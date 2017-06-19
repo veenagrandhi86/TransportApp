@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TransportApp</string>
+    <string name="flavor">Full</string>
+</resources>
